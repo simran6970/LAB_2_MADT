@@ -58,7 +58,7 @@ EditText edUserInput;
 
             @Override
             public void onNothingSelected(AdapterView<?> parentView) {
-                // your code here
+
             }
 
         });
