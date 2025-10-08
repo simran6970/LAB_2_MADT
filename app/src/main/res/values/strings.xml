@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+   <string-array name="User_selections">
+       <item>Sentence</item>
+       <item>Words</item>
+       <item>Chars</item>
+       <item>Numbers</item>
+   </string-array>
+</resources>
